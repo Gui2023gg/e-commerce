@@ -1,21 +1,21 @@
-# 🛒 E-commerce de Tênis - React Native (Expo)
+#  E-commerce de Tênis - React Native (Expo)
 
 Este é um aplicativo mobile de e-commerce voltado para a venda de tênis, desenvolvido com **React Native** usando **Expo**. O app simula uma vitrine com produtos, navegação entre telas, visual moderno e interação com o usuário.
 
 ---
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
-- 🖼️ Banner promocional no topo
-- 👟 Lista de produtos organizados em seções
-- 🔍 Filtro de categorias (ícone no topo direito)
-- 📦 Tela de detalhes do produto (via `navigation`)
-- 💰 Preço dos produtos em destaque
-- 📱 Design responsivo e moderno
+-  Banner promocional no topo
+-  Lista de produtos organizados em seções
+-  Filtro de categorias (ícone no topo direito)
+-  Tela de detalhes do produto (via `navigation`)
+-  Preço dos produtos em destaque
+-  Design responsivo e moderno
 
 ---
 
-## 🧱 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.dev/)
